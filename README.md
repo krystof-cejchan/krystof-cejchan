@@ -1,6 +1,6 @@
 <hr>
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krystof-cejchan&layout=default)](https://www.krystofcejchan.cz/)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krystof-cejchan&langs_count=5&layout=donut)](https://www.krystofcejchan.cz/)
   
 
   
